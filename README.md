@@ -14,7 +14,7 @@ Incluye una interfaz moderna, accesible, y con enfoque en usabilidad.
 ✅ Interfaz limpia creada en Figma  
 ✅ Prototipos navegables para Web y Móvil  
 ✅ Preparado para futura implementación en código
-
+✅ Cambio de idioma en el login a Ingles en el Web
 ---
 
 ## 🎨 Diseño en Figma
@@ -34,12 +34,13 @@ Incluye una interfaz moderna, accesible, y con enfoque en usabilidad.
 
 
 ### ✅ Vista Web  
-![Vista Web](./assets/vista-web.png)
+![Vista Web](https://github.com/LeonelFigueroaJauregui/-Agenda-contactos-frontend/blob/main/.assets/Web.png?raw=true)
 
 ### ✅ Vista Móvil  
-![Vista Móvil](./assets/vista-movil.png)
+![Vista Móvil](https://github.com/LeonelFigueroaJauregui/-Agenda-contactos-frontend/blob/main/.assets/movil.png?raw=true)
 
 ---
 
 ## 📂 Estructura del proyecto (sugerida)
+/assets → Capturas del prototipo (Web & Mobile)
 
